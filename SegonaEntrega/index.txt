@@ -1,0 +1,24 @@
+==============================
+PROJECTE: SCRABBLE - SEGONA ENTREGA
+==============================
+
+Assignatura: Projectes de Programacio
+Grup: 
+    - Pau Serrano Sanz          |     (pau.serrano.sanz@estudiantat.upc.edu)
+    - Marc Gil Moreno           |     (marc.gil.moreno@estudiantat.upc.edu)
+    - Ferran Blanchart Reyes    |     (ferran.blanchart@estudiantat.upc.edu)
+    - Alexander de Jong         |     (alexander.de.jong@estudiantat.upc.edu)
+
+Data de lliurament: 26/05/2025
+
+Aquest directori conte els documents requerits per la segona entrega incloent els 3 diagramas de cada capa i la descripcio de les estructures de dades i algoritmes utilitzats. A continuacio es descriu breument el contingut de la carpeta:
+
+📁 DOCS/
+---------
+Inclou tota la documentacio requerida, com ara:
+- Diagrama UML de la capa de domini, la capa de persitència i la capa de presentació.
+- Explicacio dels algoritmes i estructures de dades utilitzades.
+
+📄 index.txt
+---------------
+Aquest fitxer, amb la descripcio del contingut de la entrega.

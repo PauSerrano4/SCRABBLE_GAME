@@ -1,0 +1,4 @@
+Excepcions personalitzades utilitzades al projecte.
+
+*.java      - Classes d'excepcio per gestionar errors de forma controlada.
+index.txt   - Aquest fitxer, descripcio del directori exceptions.

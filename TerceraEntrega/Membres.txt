@@ -1,0 +1,45 @@
+==============================
+MEMBRES DEL GRUP - PROJECTE SCRABBLE- TASQUES REALITZADES
+==============================
+
+1. Pau Serrano
+   Correu: pau.serrano.sanz@estudiantat.upc.edu
+   Tasques:
+   - Implementacio del DAWG i les classes Diccionari i DigrafMapper.
+   - Implementacio de la logica de gestio de digrafs als controladors i a les vistes. 
+   - Implementacio classes Jugador, Partida, Pair, Temporitzador i TemporitzadorListener.
+   - Implementacio del del programa principal (Main.java)
+   - Casos d'us implementats: 
+      - Consultar normes i manual d'usuari.
+      - Jugar Partida (conjuntament amb Alexander de Jong)
+
+2. Marc Gil Moreno
+   Correu: marc.gil.moreno@estudiantat.upc.edu
+   Tasques:
+   - Implementacio del algorisme de joc de la maquina
+   - Implementacio d'algunes excepcions
+   - Redaccio del Manual d'Usuari present en la documentacio del Projecte.
+   - Casos d'us implementats:
+      - Gestio partida (Escollir entre jugar partida nova o carregar partida guardada)
+      - Definir partida 
+
+3. Alexander de Jong Roca
+   Correu : alexander.de.jong@estudiantat.upc.edu
+   Tasques:
+      -Implementacio classes Tauler, Casella, Fitxa. (tambe la funcio aplicarJugadaHumana a Partida)
+      -Ajuda amb els controladors
+      -Implementacio Makefile
+      -Implementacio dels tests de integracio del joc
+      -Redaccio de la documentacio dels tests
+      -Casos d'us:
+         -Iniciar Sessio, Tancar Sessio, Crear Pefil, Canviar Contrasenya, Partida contra Jugador, Canviar LLetres, Guardar, Continuar Partida, 
+
+4. Ferran Blanchart Reyes
+   Correu: ferran.blanchart@estudiantat.upc.edu
+   Tasques:
+   - Implementacio de les classes Usuari, Ranquing i Estaditiques
+   - Desenvolupament de proves JUnit per Usuari, Ranquing i Estaditiques
+   - Implementacio dels seguents casos d'us: 
+         - Consultar estadistiques, consultar ranquings, canviar alies, eliminar compte, llistar diccionaris, afegir diccionari i eliminar diccionari.
+
+Tots els membres del grup hem col·laborat en la Implementacio dels controladors princiapls de cada capa (Presentacio, domini i persistencia)

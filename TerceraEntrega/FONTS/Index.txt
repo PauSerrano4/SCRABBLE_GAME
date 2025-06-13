@@ -1,0 +1,10 @@
+# INDEX DE LA CARPETA FONTS
+
+Aquesta carpeta conté els fitxers i recursos relacionats amb la documentació, configuració i fonts del projecte.
+
+Directori principal del codi font i recursos de desenvolupament.
+
+src/         - Codi font Java organitzat per paquets.
+Makefile     - Fitxer per compilar i executar el projecte i els tests.
+index.txt    - Aquest fitxer, descripcio del directori FONTS.
+

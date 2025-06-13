@@ -1,0 +1,11 @@
+Controladors del projecte. Gestionen la logica principal i la comunicacio entre capes.
+
+ControladorDomini.java         - Classe principal que coordina tota la logica del joc Scrabble. Gestiona la creacio i execucio de partides, la gestio d'usuaris, la interaccio amb els diccionaris, el ranquing, les estadistiques i la comunicacio amb la capa de persistencia. Es el nucli de la logica de domini.
+
+ControladorPresentacio.java    - Classe encarregada de gestionar la interficie grafica i la comunicacio entre la capa de presentacio (vistes Swing) i la logica de domini. Gestiona la navegacio entre vistes, la recepcio d'events de l'usuari i la sincronitzacio de l'estat visual amb el model del joc.
+
+ControladorPersistencia.java   - Classe responsable de la gestio de la persistencia de dades. S'encarrega de carregar i guardar diccionaris, alfabets, partides, usuaris, historial i estadistiques a fitxers. Implementa el patro Singleton per garantir una unica instancia i centralitzar l'acces a la capa de dades.
+
+CtrlUsuari.java               - Classe que gestiona la logica d'autenticacio i registre d'usuaris. Permet iniciar sessio, registrar nous usuaris, canviar nom i contrasenya, eliminar comptes i gestionar l'usuari actiu durant la partida.
+
+index.txt                     - Aquest fitxer, descripcio del directori controller.

@@ -1,0 +1,5 @@
+Directori de llibreries Java necessaries per executar i provar el projecte.
+
+junit-4.13.2.jar      - Llibreria JUnit per a tests.
+hamcrest-core-1.3.jar - Llibreria Hamcrest per a tests.
+index.txt             - Aquest fitxer, descripcio del directori lib.

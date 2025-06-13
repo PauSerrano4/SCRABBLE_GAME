@@ -1,0 +1,11 @@
+Gestio de la persistencia del sistema: lectura i escriptura de fitxers, serialitzacio, etc.
+
+GestorDiccionari.java        - Classe encarregada de gestionar la lectura, escriptura i validacio dels diccionaris i alfabets utilitzats pel joc. Permet carregar paraules, lletres i puntuacions des de fitxers externs, guardar nous diccionaris i eliminar-los. Dona suport a la gestio de diversos idiomes i facilita l'extensio del sistema amb nous diccionaris.
+
+GestorPartida.java           - Classe responsable de la gestio de les partides guardades. Permet serialitzar i deserialitzar l'estat complet d'una partida per poder-la reprendre en qualsevol moment. Gestiona la creacio, esborrat i llistat de fitxers de partida, assegurant la persistencia de l'estat del joc.
+
+GestorHistorial.java         - Classe que gestiona l'historial de partides jugades pels usuaris. Permet guardar, consultar i filtrar les partides finalitzades, facilitant la consulta de resultats antics i estadistiques. Dona suport a la generacio d'informes d'activitat i resum de partides.
+
+ControladorPersistencia.java - Classe que centralitza totes les operacions de lectura i escriptura de dades persistents del sistema. S'encarrega de coordinar la interaccio amb els gestors de diccionaris, partides i historial, i garanteix la consistencia de les dades entre la memoria i els fitxers. Implementa el patro Singleton per assegurar una unica instancia global.
+
+index.txt                    - Aquest fitxer, descripcio del directori persistencia.

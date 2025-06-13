@@ -1,0 +1,14 @@
+Directori de dades del projecte. Conte tots els fitxers d'entrada i sortida utilitzats pel programa.
+
+catalan.txt         - Diccionari de paraules en catala.
+castellano.txt      - Diccionari de paraules en castella.
+english.txt         - Diccionari de paraules en angles.
+letrasCATALAN.txt   - Alfabet i puntuacions per catala.
+letrasCASTELLANO.txt- Alfabet i puntuacions per castella.
+letrasENGLISH.txt   - Alfabet i puntuacions per angles.
+usuaris.txt         - Llista d'usuaris registrats.
+ranquing.dat        - Fitxer binari amb el ranquing global.
+estadistiques_*.ser - Estadistiques individuals de cada usuari.
+historial.txt       - Historial de partides jugades.
+partides/           - Subdirectori amb partides guardades en format .ser
+index.txt           - Aquest fitxer, descripcio del directori DATA.

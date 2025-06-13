@@ -1,0 +1,54 @@
+==============================
+PROJECTE: SCRABBLE - PRIMERA ENTREGA
+==============================
+
+Assignatura: Projectes de Programacio
+Grup: 
+    - Pau Serrano Sanz          |     (pau.serrano.sanz@estudiantat.upc.edu)
+    - Marc Gil Moreno           |     (marc.gil.moreno@estudiantat.upc.edu)
+    - Ferran Blanchart Reyes    |     (ferran.blanchart@estudiantat.upc.edu)
+    - Alexander de Jong         |     (alexander.de.jong@estudiantat.upc.edu)
+
+Data de lliurament: 22 d'abril de 2024
+
+Aquest directori conte l'estructura completa del projecte, incloent el codi font, els tests, la documentacio, els executables i els fitxers de dades. A continuacio es descriu breument el contingut de cada carpeta:
+
+📁 DOCS/
+---------
+Inclou tota la documentacio requerida a la normativa del projecte, com ara:
+- Diagrama de casos d'us amb les seves descripcions.
+- Diagrama UML de classes amb atributs i metodes.
+- Explicacio dels algoritmes i estructures de dades utilitzades.
+- Relacio de classes implementades per cada membre del grup.
+
+📁 DATA/
+---------
+Conte tots els arxius d'entrada que utilitza el programa (per exemple, diccionaris amb paraules, lletres, etc.). Tots els fitxers externs que ha de llegir el programa han d'estar ubicats aqui perque siguin detectats correctament.
+
+📁 EXE/
+--------
+Conte els executables generats a partir de la compilacio del projecte:
+- Arxius `.class` de totes les classes.
+- Fitxers `.class` dels drivers i proves.
+- Executables per executar `Main` i drivers de testing.
+- Resultats de les proves JUnit.
+
+📁 FONTS/
+----------
+Inclou tot el codi font del projecte en format `.java`, organitzat per:
+- Classes del model: `Fitxa.java`, `Jugador.java`, `Partida.java`, etc.
+- Classes auxiliars i estructures de dades (`Pair.java`, `Tauler.java`, etc.).
+- Tests JUnit per a cada classe.
+- Drivers per provar les funcionalitats manualment.
+
+📄 README.txt
+---------------
+Instruccions basiques per compilar i executar el projecte des de terminal manualment.
+
+📄 index.txt
+---------------
+Aquest fitxer, amb la descripcio del contingut del projecte.
+
+📄 membres.txt
+---------------
+Inclou el nom complet, correu UPC i la relacio de tasques realitzades per cada integrant del grup.

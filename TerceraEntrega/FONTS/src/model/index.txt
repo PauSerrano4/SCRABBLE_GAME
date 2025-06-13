@@ -1,0 +1,21 @@
+Classes del model de domini del joc Scrabble.
+
+Partida.java        - Classe principal que representa una partida de Scrabble. Gestiona el tauler, els jugadors, el torn, la bossa de fitxes, el mode de joc, la puntuacio i l'estat general de la partida. Inclou la logica per validar i aplicar jugades, controlar el temps i determinar el guanyador.
+
+Jugador.java        - Classe que representa un jugador d'una partida. Gestiona el nom, les fitxes de l'atril, la puntuacio, el tipus de jugador (huma o bot) i les accions que pot realitzar durant la partida.
+
+Fitxa.java          - Classe que representa una fitxa del joc. Guarda la lletra i la seva puntuacio. Permet crear fitxes, consultar-ne el valor i gestionar la seva utilitzacio a l'atril o al tauler.
+
+Tauler.java         - Classe que representa el tauler de joc d'Scrabble. Gestiona les caselles, la mida, els multiplicadors i les operacions per col.locar fitxes, validar posicions i mostrar l'estat del tauler.
+
+Casella.java        - Classe que representa una casella individual del tauler. Gestiona la lletra col.locada, el tipus de multiplicador i si la casella esta ocupada o lliure.
+
+Diccionari.java     - Classe que conté totes les paraules valides d'un idioma per al joc. Utilitza un DAWG per emmagatzemar i cercar paraules de manera eficient. Permet validar paraules, afegir-ne de noves i consultar l'alfabet associat.
+
+Estadistiques.java  - Classe que guarda i gestiona les estadistiques d'un usuari: total de punts, millor puntuacio, puntuacio mitjana, historial de partides i estadistiques per diccionari.
+
+Usuari.java         - Classe que representa un usuari del sistema. Gestiona el nom, la contrasenya, les estadistiques personals, l'estat d'eliminacio i les accions relacionades amb el perfil d'usuari.
+
+Ranquing.java       - Classe que gestiona el ranquing global de jugadors. Permet afegir resultats, ordenar usuaris segons la puntuacio i consultar la posicio de cada jugador.
+
+index.txt           - Aquest fitxer, descripcio del directori model.

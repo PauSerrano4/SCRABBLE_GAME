@@ -1,0 +1,51 @@
+Guanyador: jugador1 (per punts)
+jugador1: 10 punts, BOT1: 0 punts
+Jugades:
+jugador1 → CASA (+10)
+
+Guanyador: jugador1 (per punts)
+jugador1: 10 punts, BOT1: 0 punts
+Jugades:
+jugador1 → CASA (+10)
+
+Guanyador: jugador1 (per punts)
+jugador1: 10 punts, BOT1: 0 punts
+Jugades:
+jugador1 → CASA (+10)
+
+Guanyador: BOT1 (per punts)
+mama: 96 punts, BOT1: 347 punts
+Jugades:
+mama → REME (+10)
+BOT1 → VES (+11)
+mama → REMEN (+6)
+BOT1 → nEC (+25)
+mama → REMENAR (+9)
+BOT1 → XALAM (+30)
+BOT1 → JURE (+27)
+mama → PENA (+12)
+BOT1 → HET (+26)
+BOT1 → TIX (+12)
+BOT1 → USAU (+8)
+BOT1 → PAU (+21)
+BOT1 → GRIS (+7)
+BOT1 → RETIR (+16)
+BOT1 → AGRIS (+7)
+BOT1 → AVES (+16)
+mama → ALEGRA# (+27)
+BOT1 → SESTES (+7)
+mama → TOT (+6)
+BOT1 → BOIS (+12)
+mama → RETIRIN (+7)
+BOT1 → ELIS (+15)
+BOT1 → NAS (+26)
+mama → REMENARAS (+10)
+BOT1 → ORSEN (+16)
+BOT1 → TOSA (+12)
+mama → TINC (+5)
+BOT1 → MUSAU (+12)
+BOT1 → CIS (+12)
+BOT1 → LES (+15)
+mama → TOTS (+4)
+BOT1 → FEUS (+14)
+

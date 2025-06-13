@@ -1,0 +1,31 @@
+Interficie grafica d'usuari (GUI) i vistes Swing.
+
+ControladorPresentacio.java  - Classe que gestiona la logica de presentacio i la comunicacio entre la interficie grafica (vistes Swing) i la logica de domini. S'encarrega de coordinar la navegacio entre vistes, la gestio d'usuaris, la creacio i control de partides, la interaccio amb el controlador de domini i la sincronitzacio de l'estat visual amb el model del joc.
+
+VistaMenuPrincipal.java      - Classe que mostra el menu principal del joc Scrabble. Permet accedir a les principals funcionalitats: iniciar partida, consultar ranquings, veure l'historial, gestionar l'usuari i accedir a les opcions.
+
+VistaPartida.java           - Vista principal de la partida. Mostra el tauler, els atrils, el temps, les puntuacions i permet realitzar jugades, passar torn, canviar fitxes i pausar la partida.
+
+VistaGestioPartida.java     - Vista per gestionar partides. Permet escollir entre continuar una partida guardada, crear-ne una de nova o tornar al menu principal.
+
+VistaDefinirPartida.java    - Vista per definir els parametres d'una nova partida: idioma, mode de joc, dificultat i tipus de contrincant. Dona acces a l'inici de la partida.
+
+VistaPausa.java             - Vista que es mostra quan la partida esta en pausa. Permet reprendre la partida, guardar-la o abandonar-la.
+
+VistaResultatPartida.java   - Vista que mostra el resultat final d'una partida, amb les puntuacions de cada jugador i el guanyador.
+
+VistaNormes.java            - Vista que mostra les normes del joc i el manual d'usuari, per consultar en qualsevol moment durant la partida o des del menu principal.
+
+VistaHistorial.java         - Vista que mostra l'historial de partides jugades per l'usuari, amb detalls de cada partida.
+
+VistaRanquings.java         - Vista que mostra el ranquing global de jugadors, ordenat per puntuacio o altres criteris.
+
+VistaEstadistiques.java     - Vista que mostra les estadistiques detallades de l'usuari actiu: partides jugades, puntuacio mitjana, percentatge de victories, etc.
+
+VistaGestioUsuari.java      - Vista per gestionar el perfil d'usuari: canviar nom, contrasenya, eliminar compte, etc.
+
+VistaDiccionaris.java       - Vista per consultar i gestionar els diccionaris disponibles al sistema.
+
+Altres *.java               - Altres vistes i components auxiliars de la interficie grafica.
+
+index.txt                   - Aquest fitxer, descripcio del directori presentacio.

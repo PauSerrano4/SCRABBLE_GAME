@@ -1,0 +1,5 @@
+Tests d'integracio i unitat del projecte.
+
+Test*.java  - Fitxers de test JUnit que comproven el funcionament correcte de les diferents funcionalitats del projecte. Cada fitxer cobreix un conjunt de casos d'us o una part especifica del sistema, com ara la gestio d'usuaris, la logica de partida, la validacio de jugades, la persistencia, el comportament del bot o la gestio d'estadistiques. Els tests permeten detectar errors i garantir la robustesa del programari.
+
+index.txt   - Aquest fitxer, descripcio del directori test. Serveix per orientar sobre el contingut i l'objectiu dels fitxers de test d'aquest directori.

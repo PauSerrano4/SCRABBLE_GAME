@@ -1,0 +1,10 @@
+Classes auxiliars i utilitats generals.
+
+Pair.java             - Classe utilitat per parelles de valors. Permet emmagatzemar i retornar dos valors relacionats de qualsevol tipus.
+DigrafMapper.java     - Gestio de digrafs per idioma. Permet convertir paraules amb digrafs a una representacio interna per facilitar la validacio i tractament de paraules.
+Node.java             - Classe que representa un node d'un DAWG, utilitzat per emmagatzemar i cercar paraules de manera eficient al diccionari.
+Anchor.java           - Classe per representar una posicio d'ancoratge al tauler durant la generacio de jugades. Ajuda a determinar on es poden col.locar noves paraules.
+Play.java             - Classe que encapsula una jugada realitzada al tauler. Guarda la paraula, la posicio, la direccio i la puntuacio de la jugada.
+Temporitzador.java    - Classe que implementa un temporitzador per controlar el temps de cada torn o partida. Permet iniciar, pausar i reiniciar el comptador.
+TemporitzadorListener.java - Interficie per escoltar esdeveniments del temporitzador, com ara el final del temps o actualitzacions periòdiques.
+index.txt             - Aquest fitxer, descripcio del directori util.

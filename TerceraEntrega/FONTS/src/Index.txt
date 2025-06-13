@@ -1,0 +1,27 @@
+# INDEX DE LA CARPETA SRC
+
+Aquesta carpeta conte tot el codi font del projecte estructurat en diferents paquets Java.
+
+1. **controller/**
+   └─ Conté els controladors principals del joc (Capa de Domini). Gestionen la lògica del joc i coordinacio entre les capes de presentacio i persistencia.
+
+2. **exceptions/**
+   └─ Inclou excepcions personalitzades utilitzades al projecte per gestionar errors de forma controlada.
+
+3. **model/**
+   └─ Defineix les classes del model de domini, com ara `Usuari`, `Partida`, `Tauler`, etc. Representen les entitats centrals del joc.
+
+4. **persistencia/**
+   └─ Gestiona la lectura i escriptura de dades (fitxers, serialitzacio, arxius de text). S’encarrega de la persistència del sistema (Capa de persistencia).
+
+5. **presentacio/**
+   └─ Inclou les classes de la interfície grafica d’usuari (GUI) o consola, per mostrar i recollir informacio del jugador (Capa de presentacio).
+
+6. **test/**
+   └─ Conte les proves d'integracio per validar el funcionament de les diferents parts del projecte.
+
+7. **util/**
+   └─ Classes auxiliars i utilitats generals.
+
+8. **Index.txt**
+   └─ Aquest fitxer, descripcio del directori src.

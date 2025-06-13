@@ -1,0 +1,43 @@
+Aquest directori conté l'estructura completa del projecte Scrabble desenvolupat per al curs PROP. Aquí trobaràs tot el necessari per compilar, executar, provar i entendre el funcionament del joc. El directori inclou el codi font organitzat per capes (model, controladors, persistència i presentació), així com els recursos de dades (diccionaris, alfabets, partides guardades), la documentació tècnica i d'usuari, els fitxers de configuració i els executables generats. També s'hi inclouen els tests d'integració i unitat, així com informació sobre els membres del grup i les tasques realitzades. Aquesta estructura facilita tant el desenvolupament com la revisió i ús del projecte per part de tercers.
+
+DATA/
+---------
+Conté tots els arxius d'entrada que utilitza el programa (per exemple, diccionaris amb paraules, lletres, etc.). Tots els fitxers externs que ha de llegir el programa han d'estar ubicats aquí perquè siguin detectats correctament.
+
+EXE/
+--------
+Conté els executables generats a partir de la compilació del projecte:
+- Arxius `.class` de totes les classes.
+- Fitxers `.class` dels drivers i proves.
+- Executables per executar `Main` i drivers de testing.
+
+FONTS/
+----------
+Inclou tot el codi font del projecte en format `.java`, organitzat per:
+- Classes del model: `Fitxa.java`, `Jugador.java`, `Partida.java`, etc.
+- Classes auxiliars i estructures de dades (`Pair.java`, `Tauler.java`, etc.).
+- Tests JUnit d'integració per provar funcionalitat conjunta.
+- Classes d'excepcions.
+- Classes de la capa de domini.
+- Classes de la capa de persistència.
+- Classes de la capa de presentació.
+
+index.txt
+---------------
+Aquest fitxer, amb la descripció del contingut del projecte.
+
+Readme.md     
+-------------
+Guia rapida, instruccions i canvis importants.
+
+Membres.txt
+-------------
+Tasques realitzades per cada membre del grup, amb detall de responsabilitats i contribucions.
+
+Manual_d_usuari.pdf
+--------------------
+Document en format PDF que serveix com a guia completa per als usuaris del Joc. Inclou instruccions pas a pas sobre com utilitzar les funcionalitats principals, consells d’ús i una secció de preguntes freqüents (FAQ).
+
+Documentacio_tests.md
+---------------------
+Aquest fitxer descriu les proves realitzades al projecte, incloent els tests d'integració, unitat i proves manuals. S'hi expliquen els objectius de cada test, els resultats esperats i com executar-los.

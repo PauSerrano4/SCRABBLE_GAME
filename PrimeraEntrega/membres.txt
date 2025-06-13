@@ -1,0 +1,32 @@
+==============================
+MEMBRES DEL GRUP - PROJECTE SCRABBLE
+==============================
+
+1. Pau Serrano
+   Correu: pau.serrano.sanz@estudiantat.upc.edu
+   Tasques:
+   - Implementació del DAWG i la classe Diccionari
+   - Implementació classes Jugador i Partida
+   - Desenvolupament de proves JUnit per Diccionari, Jugador i Partida
+   - Implementació del controlador de domini (ControladorDomini.java) i el programa principal (Main.java)
+
+2. Marc Gil Moreno
+   Correu: marc.gil.moreno@estudiantat.upc.edu
+   Tasques:
+   - Implementació del algorisme de joc de la màquina
+   - Implementació controlador presentació
+
+3. Alexander de Jong Roca
+   Correu : alexander.de.jong@estudiantat.upc.edu
+   Tasques:
+      -Implementacio classes Tauler, Casella, Fitxa amb els seus respectius test unitaris en JUnit
+      -Ajuda amb els controladors
+      -Implementacio Makefile
+
+4. Ferran Blanchart Reyes
+   Correu: ferran.blanchart@estudiantat.upc.edu
+   Tasques:
+   - Implementació de les classes Usuari, Ranquing i Estadítiques
+   - Desenvolupament de proves JUnit per Usuari, Ranquing i Estadítiques
+   - Desenvolupament de la part de DOCS
+

@@ -1,0 +1,4 @@
+Directori de partides guardades. Conte fitxers serialitzats amb l'estat de cada partida.
+
+*.ser      - Fitxers de partida guardada (un per cada partida).
+index.txt  - Aquest fitxer, descripcio del directori partides.
